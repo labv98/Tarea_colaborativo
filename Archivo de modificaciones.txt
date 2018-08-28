@@ -1,1 +1,8 @@
-Este archivo ser‡ utilizado para emular modificaciones en el proyecto colaborativo.Edzna.
+Este archivo ser‡ utilizado para emular modificaciones en el proyecto colaborativo.
+Edzna.
+Alejandra.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/na98/Tarea_colaborativo
+https://github.com/labv98/Tarea_colaborativo
